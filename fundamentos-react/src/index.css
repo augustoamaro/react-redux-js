@@ -1,4 +1,16 @@
 body {
+    font-family: Shadows Into Light;
     background-color: #222;
-    color: antiquewhite
+    color: antiquewhite;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+
+h1, h2, h3 {
+    font-weight: 200;
+}
+
+h2, h3 {
+    margin: 0;
 }
